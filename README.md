@@ -1,1 +1,0 @@
-# lab1-it-infra
